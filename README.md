@@ -1,2 +1,2 @@
 # Digitaltherapist
-This is an online chatbot that gives relief to psychological conversations with clients
+This is an online chatbot that gives relief of psychological conversations with clients
